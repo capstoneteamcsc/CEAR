@@ -1,9 +1,14 @@
-﻿![AppLogo](https://capstoneteamcsc.github.io/CEAR/cear_icon_no_background.png)
+﻿![AppLogo](https://capstoneteamcsc.github.com/cear_icon_no_background.png)
 # CEAR
 ## Welcome
 
 Welcome to CEAR (City of Edmonton Augmented Reality). This application is used to view various scenes in augmented reality using your iPhone or Android device.
 
+## How to operate App
+
+```Instructions
+
+```
 
 ```Created by
 - Christopher Popowich
@@ -12,12 +17,6 @@ Welcome to CEAR (City of Edmonton Augmented Reality). This application is used t
 - Sarah Altamimi
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/capstoneteamcsc/CEAR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+## Support or Contact
 
 email capstoneteamcsc@gmail.com for support
