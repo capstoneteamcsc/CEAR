@@ -23,16 +23,10 @@ Welcome to CEAR (City of Edmonton Augmented Reality). This application is used t
   - Use the audio icon to mute/unmute audio
   - The hamburger icon (top right) allows you to view 
     options such as adjusting audio levels
-  - To get the best experience from audio, use headphones
+  - To get the best experience from audio, use 
+    headphones
 8. Press cancel if you need to restart.
 
-```
-
-```Created by
-- Christopher Popowich
-- Carlos Estay
-- Shawna Ray
-- Sarah Altamimi
 ```
 
 ## Support or Contact
