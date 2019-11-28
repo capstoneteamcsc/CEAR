@@ -1,4 +1,4 @@
-﻿![AppLogo](https://capstoneteamcsc.github.com/CEAR/cear_icon_no_background.png)
+﻿![AppLogo](https://capstoneteamcsc.github.io/CEAR/cear_icon_no_background.png)
 # CEAR
 ## Welcome
 
